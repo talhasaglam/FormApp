@@ -1,0 +1,23 @@
+C:\Users\Moonlight\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Moonlight\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\Moonlight\source\repos\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.Form1.resources
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.Form2.resources
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.Cache
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Moonlight\source\repos\Odev2\Odev2\obj\Debug\Odev2.Form3.resources
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\bin\Debug\Odev2.exe.config
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\bin\Debug\Odev2.exe
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\bin\Debug\Odev2.pdb
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.csprojAssemblyReference.cache
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.Form1.resources
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.Form2.resources
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.Form3.resources
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.Properties.Resources.resources
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.csproj.GenerateResource.cache
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.exe
+D:\Projelerim\b141210260 (3)\Odev2\Odev2\obj\Debug\Odev2.pdb
